@@ -1,1 +1,1 @@
-# JavaScript_Algorithmic_Solutions
+ JavaScript Algorithmic Solutions 
