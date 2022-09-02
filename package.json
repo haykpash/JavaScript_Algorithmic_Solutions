@@ -1,0 +1,23 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykpash/JavaScript_Algorithmic_Solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haykpash/JavaScript_Algorithmic_Solutions/issues"
+  },
+  "homepage": "https://github.com/haykpash/JavaScript_Algorithmic_Solutions#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
